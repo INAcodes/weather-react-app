@@ -12,7 +12,12 @@ export default function Footer(){
   >
     open-sourced on GitHub
   </a>{" "}
-  and hosted on Netlify
+  and <a href="https://stupefied-goldberg-8d70c3.netlify.app" 
+         target="_blank" 
+         rel="noreferrer"
+         > 
+         hosted on Netlify
+         </a>
 </h4>
 );
 }
