@@ -4,7 +4,7 @@ import React from "react";
 export default function Footer(){
     return(
 <h4>
-  This project was coded by INA HADAJ and is{" "}
+  This project was coded by <em>INA HADAJ</em> and is{" "}
   <a
     href="https://github.com/INAcodes/weather-react-app"
     target="_blank"
